@@ -1,0 +1,14 @@
+﻿  planewar.cpp
+d:\win32project\planewar\planewar\planewar.cpp(61): warning C4305: “=”: 从“double”到“float”截断
+d:\win32project\planewar\planewar\planewar.cpp(75): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(76): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(77): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(78): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(79): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(80): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(83): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(84): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(87): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(90): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+d:\win32project\planewar\planewar\planewar.cpp(115): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  planewar.vcxproj -> D:\win32project\planewar\Debug\planewar.exe
