@@ -1,10 +1,13 @@
 # 飞机大战
+
 简介
 ----
 一款用C语言写的小游戏，使用了easyX图形库。
+
 玩法
 ----
 鼠标移动控制飞机，单击左键发射子弹。
+
 开发经验
 ----
 * 新建项目时选择控制台程序。
@@ -13,6 +16,7 @@
 * 为了防止访问越界，微软建议使用sprintf_s代替sprintf。但是推荐在项目/属性/C/C++/预处理器中添加以下宏：_CRT_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE。
 * 使用BeginBatchDraw(),别忘了FlushBatchDraw();
 * 文件路径要写完整。
+
 游戏的不足
 ----
 * 敌机只有一架，循环生成。
